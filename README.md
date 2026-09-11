@@ -6,13 +6,12 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: TiM PiM
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Abiraj T M - NSS College of Engineering , Palakkad
+- Member 2: Arjun P M -NSS College of Engineering , Palakkad
 
 ### Project Description
 [2-3 lines about what your project does]
