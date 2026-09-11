@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# TiM PiM 🎯
 
 
 ## Basic Details
