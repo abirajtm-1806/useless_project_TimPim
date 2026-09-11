@@ -14,13 +14,12 @@
 - Member 2: Arjun P M -NSS College of Engineering , Palakkad
 
 ### Project Description
-[2-3 lines about what your project does]
-
+A drawing simulator like how our life is going. You need to pick one image upto your belief and accept the faith 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Ever feeled you can't draw anything and accepted your fate???
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We will make it on the same level
 
 ## Technical Details
 ### Technologies/Components Used
