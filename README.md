@@ -32,10 +32,10 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+No installation needed . Just hit and run
 
 # Run
-[commands]
+Link : https://thalavara.vercel.app/
 
 ### Project Documentation
 For Software:
