@@ -24,10 +24,15 @@ We will make it on the same level
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Language: HTML , Javascript
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Language: HTML5, CSS3, JavaScript (ES6, Vanilla — no framework)
+- [Frameworks used] : None — built as a single-page vanilla JS app (no React/Vue/Angular)
+- [Libraries used] : None external for logic; Google Fonts (Baloo Chettan 2, Baloo 2, Caveat, JetBrains Mono) loaded via CDN link for typography
+- [Tools used] : HTML5 Canvas API — for the mirror-drawing page (freehand strokes, shape stamping, mirrored coordinate transforms)
+SVG — inline vector graphics for the bat mascot, cat/apple line-art, and envelope illustration
+CSS backdrop-filter — for the glassmorphism panels throughout
+Base64 image embedding — the handwritten note photo is embedded directly in the HTML so the site is a single self-contained file with no external asset dependencies
+Browser KeyboardEvent API (shiftKey, e.key) — for the reverse-shift-logic captcha
+Browser dev tools / manual testing — no build step, bundler, or package manager required; just open
 
 ### Implementation
 For Software:
