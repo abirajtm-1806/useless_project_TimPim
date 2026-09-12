@@ -24,7 +24,7 @@ We will make it on the same level
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- Language: HTML , Javascript
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
