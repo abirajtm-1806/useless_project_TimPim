@@ -34,7 +34,7 @@ Base64 image embedding — the handwritten note photo is embedded directly in th
 Browser KeyboardEvent API (shiftKey, e.key) — for the reverse-shift-logic captcha
 Browser dev tools / manual testing — no build step, bundler, or package manager required; just open
 
-### Implementation
+# Implementation
 For Software:
 # Installation
 No installation needed . Just hit and run
