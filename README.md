@@ -2,7 +2,7 @@
 
 
 
-# TiM PiM 🎯
+# THALAVARA 🎯
 
 
 ## Basic Details
