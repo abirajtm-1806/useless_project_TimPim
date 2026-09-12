@@ -59,8 +59,9 @@ For Software:
 
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+
+Workflow of Thalavara
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/5227dd13-c392-415b-bf39-1a9ca47b6cfb" />
 
 ### Project Demo
 # Video
