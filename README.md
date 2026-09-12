@@ -61,11 +61,10 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1oBAYGXRdk1-4aBLK9nYjKzwJDF6IBYZs/view?usp=sharing
 
 # Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1R3O0pyzdA9DdwfyHu9E_8ymuz-Zt3GoO/view?usp=sharing
 
 ## Team Contributions
 - Abiraj T M: IDEA,UX,frontend
