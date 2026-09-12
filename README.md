@@ -45,14 +45,18 @@ Link : https://thalavara.vercel.app/
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](Home Page)
+*Indicates home page*
+<img width="1919" height="919" alt="homepage" src="https://github.com/user-attachments/assets/231cd5d6-497d-4b44-a824-1bcc6ad2b31e" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](Shift captcha)
+<img width="1908" height="915" alt="shiftcaptcha" src="https://github.com/user-attachments/assets/567d5e66-cb80-416b-acc4-9150a05a19e4" />
+
+
+![Screenshot3](drawing space)
+<img width="1915" height="916" alt="drawingspace" src="https://github.com/user-attachments/assets/c7a946ac-9047-4899-8655-63effcfea508" />
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
